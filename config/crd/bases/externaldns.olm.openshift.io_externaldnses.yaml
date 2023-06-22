@@ -372,6 +372,7 @@ spec:
                     - OpenShiftRoute
                     - Service
                     - CRD
+                    - Ingress
                     type: string
                 required:
                 - type
@@ -838,6 +839,7 @@ spec:
                     - OpenShiftRoute
                     - Service
                     - CRD
+                    - Ingress
                     type: string
                 required:
                 - type
